@@ -1,6 +1,6 @@
 # Minecraft Modpack Survival Server V1
 
-The official repository of Minecraft Modpack Survival V1 for semi-private discord server
+The official repository of Minecraft Modpack Survival V1 for the semi-private discord server
  
 ## Setup:
 
@@ -10,6 +10,4 @@ Ram: It recommends using at least 8GB
 
 ## Change log:
 
-You can view the change log in [here](https://github.com/ElementBlend/ModpackSurvivalV1/blob/main/CHANGELOG.md)  
-* It is just some additional changes based on the original modpack `All The Mods 8` for our semi-private discord server  
-* For original source, you can view it through the `src` folder
+You can view the change log in [here](https://github.com/ElementBlend/ModpackSurvivalV1/blob/main/CHANGELOG.md)
